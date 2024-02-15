@@ -1,0 +1,31 @@
+body{
+    background-color: bisque;
+}
+p{
+color: gainsboro;
+}
+table{
+color: black;
+border: grey}
+
+
+ol{
+    color: blue;
+    }
+h1 {
+font-size: 50px;
+}
+h2 { font-size: medium}
+
+.container {
+  flex-wrap: wrap }
+  
+ img {height: 100px
+ ; width: 80px }
+ 
+ .container {
+  display: flex;
+  gap: 10px;
+  row-gap: 10px;
+  column-gap: 5px;
+}
