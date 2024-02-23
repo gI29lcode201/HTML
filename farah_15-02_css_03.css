@@ -1,0 +1,37 @@
+body {
+    background-color: pink;
+}
+p {
+    color: black;
+}
+table {
+    color: black;
+    border: solid grey;
+    text-align: center}
+
+
+ol {
+    color: blue;
+}
+h1 {
+    font-size: 50px;
+}
+h2 {
+    font-size: medium
+}
+
+.container {
+    flex-wrap: wrap}
+
+img {
+    height: 50px
+    ;
+    width: 30px
+}
+
+.container {
+    display: flex;
+    gap: 10px;
+    row-gap: 10px;
+    column-gap: 5px;
+}
